@@ -1,4 +1,4 @@
-# TOCProj
+# Theory of Computation Project
 Script to find whether the grammar is Ambiguous
 ## Working
 Script creates possible random strings allowed by the grammar that is hardcoded into the program.
